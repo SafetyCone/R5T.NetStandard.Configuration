@@ -9,7 +9,6 @@
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="2.2.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\R5T.NetStandard.Configuration.Types\source\R5T.NetStandard.Configuration.Types\R5T.NetStandard.Configuration.Types.csproj" />
     <ProjectReference Include="..\..\..\R5T.NetStandard.Types\source\R5T.NetStandard.Types\R5T.NetStandard.Types.csproj" />
   </ItemGroup>
 </Project>
